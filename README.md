@@ -28,7 +28,7 @@ This project transforms complex FHE concepts into an engaging, interactive exper
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fhe-encrypted-art.git
+git clone https://github.com/Dr-Kudy/fhe-encrypted-art.git
 cd fhe-encrypted-art
 ```
 
@@ -167,13 +167,10 @@ docker run -p 5000:5000 fhe-art
 
 ## Screenshots
 
-| Zama Classic | Zama Geometric | Web Interface |
-|--------------|----------------|---------------|
-| ![Classic](assets/zama_classic.png) | ![Geometric](assets/zama_geometric.png) | ![Web](assets/web_interface.png) |
+| Web Interface | Desktop App | Zama Theme |
+|--------------|-------------|------------|
+| ![Web](web_interface.png) | ![Desktop](desktop_app.png) | ![Zama](zama_classic.png) |
 
-## Demo Video
-
-[Watch the Demo](https://youtu.be/your-demo-video)
 
 ## Roadmap
 
